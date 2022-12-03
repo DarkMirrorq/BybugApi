@@ -1,0 +1,15 @@
+{
+  "name": "bybugapi",
+  "version": "1.0.0",
+  "description": "Bybug Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "json-server db.json"
+  },
+  "author": "Bybug",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
